@@ -2,6 +2,6 @@ repository name: zouqinjing/PHBS_TQFML/Project
 
 team members: Qinjing Zou
 
-data set: Please see attachment
+data set: WdbsData.csv
 
-brief plan: Please see attachment
+brief plan: Project Proposal.pdf
